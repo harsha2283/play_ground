@@ -1,0 +1,4 @@
+1.implementing the skeleton of the software
+2.Build the core OS functions
+3.club the main functions with the os fuctions 
+
