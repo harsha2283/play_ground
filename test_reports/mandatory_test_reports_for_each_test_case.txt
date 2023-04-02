@@ -1,0 +1,6 @@
+1.there should be a code coverage file with 95 to 100 % coverage
+2.No MISRA warnings 
+3.No review points shd be kept pending for further release 
+4.All requirements implemented must not be dependent 
+5.test reports shd be certified by the QA team
+6.final test report rating file is must and should be included in the test_files folder.
